@@ -1,0 +1,51 @@
+body{
+    background-color: #4169E1;
+    font-family:'Trebuchet MS' , sans-serif;
+}
+div{
+    background-color: white;
+    border-radius: 20px;
+    position: absolute;
+    left:510px;
+    right:auto;
+    width:400px;
+    height:550px;
+    line-height: 2.2;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+label{
+    position: absolute;
+    left:40px;
+}
+input{
+    position: absolute;
+    left:40px;
+    width: 75%;
+    height: 25px;
+    border-color:lightgray;
+    border-radius: 4px;
+    box-shadow: 0;
+    border-style: solid;
+    
+}
+.s{
+    position: absolute;
+    bottom: 90px;
+    color:white;
+    border: 0;
+    background-color: #4169E1 ;
+    border-radius: 10px;
+    height: 35px;
+}
+.R{
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 50px;
+}
+h3{
+    position:relative;
+    text-align: center;
+}
