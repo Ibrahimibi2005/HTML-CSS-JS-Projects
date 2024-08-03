@@ -1,1 +1,1 @@
-this is my html/css practice project templates.
+this is my html/css/javasscript practice project templates.
