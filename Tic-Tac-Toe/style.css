@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moderustic:wght@300..800&display=swap');
+body{
+    background-color: #477998;
+    color:#C4D6B0;
+    font-family:Matemasie,sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 3.65rem;
+}
+.player{
+    font-size: 2rem;
+    margin-bottom:20px;
+}
+.result{
+    
+    font-size: 2rem;
+    margin-bottom:20px;
+}
+
+.box{
+    cursor: pointer;
+    background-color: #C4D6B0;
+    padding: 1.5vw;
+    margin:0;
+    border:2px solid #477998 ;
+
+}
+
+.reset{
+    margin-top:40px;
+    border-radius: 15px;
+    cursor: pointer;
+    height:2.1rem;
+   color:black;
+   background-color:#B5CBAD;
+   letter-spacing: 1px;
+   border:0;
+   font-family: Moderustic,sans-serif;
+   box-shadow: 2px 5px 12px 3px #384C5B;
+}
+.reset:hover{
+    transition: 1s;
+    background-color: #5f7e93;
+    color:#B5CBAD;
+  
+}
+.reset:active{
+    box-shadow: 0px 2px 5px 3px #384C5B;
+    position:relative;
+    transition: 0.1s;
+    padding-top:2px;
+}
